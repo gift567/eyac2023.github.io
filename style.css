@@ -144,6 +144,7 @@ img{
     overflow: auto;
     align-items: center;
     justify-content: center;
+    
 }
 .expanding-flex-cards>.expanding-flex-cards-item>.expanding-flex-cards-item-body p {
     text-align: center;
