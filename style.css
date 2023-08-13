@@ -13,6 +13,16 @@ html{
    
 }
 
+
+.select-box select {
+    height: 100%;
+    width: 100%;
+    outline: none;
+    border: none;
+    color: #707070;
+    font-size: 1rem;
+  }
+
 h1{
     font-family:sans-serif;
 }
